@@ -45,10 +45,10 @@
   optionalDependencies:
     parse5 "^5.0.0"
 
-"@angular/cli@git+https://v1.dbe7879ee20ba01d1f570e668abd47e31c2b80bd@github.com/angular/cli-builds.git#5b22b50":
+"@angular/cli@git+https://github.com/angular/cli-builds.git#5b22b50":
   version "7.2.0-beta.1"
   uid "5b22b5092bb823695daf79e10702fe380773f351"
-  resolved "git+https://v1.dbe7879ee20ba01d1f570e668abd47e31c2b80bd@github.com/angular/cli-builds.git#5b22b5092bb823695daf79e10702fe380773f351"
+  resolved "git+https://github.com/angular/cli-builds.git#5b22b5092bb823695daf79e10702fe380773f351"
   dependencies:
     "@angular-devkit/architect" "github:angular/angular-devkit-architect-builds#603e6f4"
     "@angular-devkit/core" "github:angular/angular-devkit-core-builds#603e6f4"
@@ -5813,11 +5813,12 @@ license-checker@^20.1.0:
     strip-ansi "^4.0.0"
     treeify "^1.1.0"
 
-license-webpack-plugin@2.0.2:
-  version "2.0.2"
-  resolved "https://registry.yarnpkg.com/license-webpack-plugin/-/license-webpack-plugin-2.0.2.tgz#9d34b521cb7fca8527945310b05be6ef0248b687"
-  integrity sha512-GsomZw5VoT20ST8qH2tOjBgbyhn6Pgs9M94g0mbvfBIV1VXufm1iKY+4dbgfTObj1Mp6nSRE3Zf74deOZr0KwA==
+license-webpack-plugin@2.0.4:
+  version "2.0.4"
+  resolved "https://registry.yarnpkg.com/license-webpack-plugin/-/license-webpack-plugin-2.0.4.tgz#48532e7d7b45f6ceb21a68b6826ce7241d7ea6da"
+  integrity sha512-FQgOqrrIcD4C/VQo6ecWgXZULK5rs0kIDJtHcSVO6SBUrD63kEHZwmKOvBTquFQSgMQn/yeH68qooKDfqiBF2Q==
   dependencies:
+    "@types/webpack-sources" "^0.1.5"
     webpack-sources "^1.2.0"
 
 lie@~3.1.0:
