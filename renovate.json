@@ -19,8 +19,7 @@
 			"packagePatterns": [
 				"@angular\/cli"
 			],
-			"ignoreUnstable": true,
-			"followTag": true
+			"ignoreUnstable": true
 		},
 		{
 			"packagePatterns": [
