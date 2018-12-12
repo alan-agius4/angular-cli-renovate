@@ -64,7 +64,7 @@
     ]
   },
   "dependencies": {
-    "@angular/cli": "git+https://github.com/angular/cli-builds.git#f2ae4fe",
+    "@angular/cli": "git+https://github.com/angular/cli-builds.git#5b22b50",
     "glob": "^7.0.3",
     "node-fetch": "^2.2.0",
     "quicktype-core": "^5.0.41",
