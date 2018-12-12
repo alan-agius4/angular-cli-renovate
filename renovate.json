@@ -23,6 +23,13 @@
 			"pinVersions": false
 		},
 		{
+			"packagePatterns": [
+				"^@bazel\/.*"
+			],
+			"groupName": "bazel",
+			"pinVersions": false
+		},
+		{
 			"packageNames": [
 				"typescript"
 			],
