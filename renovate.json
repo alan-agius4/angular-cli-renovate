@@ -7,6 +7,8 @@
 	"baseBranches": [
 		"master"
 	],
+	"ignoreUnstable": true,
+	"followTag": true,
 	"ignoreDeps": [
 		"webpack-subresource-integrity"
 	],
