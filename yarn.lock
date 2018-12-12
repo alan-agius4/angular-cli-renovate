@@ -45,10 +45,10 @@
   optionalDependencies:
     parse5 "^5.0.0"
 
-"@angular/cli@git+https://v1.dbe7879ee20ba01d1f570e668abd47e31c2b80bd@github.com/angular/cli-builds.git#5b22b50":
+"@angular/cli@git+https://github.com/angular/cli-builds.git#5b22b50":
   version "7.2.0-beta.1"
   uid "5b22b5092bb823695daf79e10702fe380773f351"
-  resolved "git+https://v1.dbe7879ee20ba01d1f570e668abd47e31c2b80bd@github.com/angular/cli-builds.git#5b22b5092bb823695daf79e10702fe380773f351"
+  resolved "git+https://github.com/angular/cli-builds.git#5b22b5092bb823695daf79e10702fe380773f351"
   dependencies:
     "@angular-devkit/architect" "github:angular/angular-devkit-architect-builds#603e6f4"
     "@angular-devkit/core" "github:angular/angular-devkit-core-builds#603e6f4"
@@ -9135,12 +9135,7 @@ source-map@0.1.x:
   dependencies:
     amdefine ">=0.0.4"
 
-source-map@0.5.6:
-  version "0.5.6"
-  resolved "https://registry.yarnpkg.com/source-map/-/source-map-0.5.6.tgz#75ce38f52bf0733c5a7f0c118d81334a2bb5f412"
-  integrity sha1-dc449SvwczxafwwRjYEzSiu19BI=
-
-source-map@0.7.3, source-map@^0.7.3:
+source-map@0.7.3, source-map@^0.7.0, source-map@^0.7.3:
   version "0.7.3"
   resolved "https://registry.yarnpkg.com/source-map/-/source-map-0.7.3.tgz#5302f8169031735226544092e64981f751750383"
   integrity sha512-CkCj6giN3S+n9qrYiBTX5gystlENnRW5jZeNLHpe6aue+SrHcG5VYwujhW9s4dY31mEGsxBDrHR6oI69fTXsaQ==
