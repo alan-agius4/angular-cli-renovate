@@ -45,10 +45,10 @@
   optionalDependencies:
     parse5 "^5.0.0"
 
-"@angular/cli@git+https://v1.dbe7879ee20ba01d1f570e668abd47e31c2b80bd@github.com/angular/cli-builds.git#5b22b50":
+"@angular/cli@git+https://github.com/angular/cli-builds.git#5b22b50":
   version "7.2.0-beta.1"
   uid "5b22b5092bb823695daf79e10702fe380773f351"
-  resolved "git+https://v1.dbe7879ee20ba01d1f570e668abd47e31c2b80bd@github.com/angular/cli-builds.git#5b22b5092bb823695daf79e10702fe380773f351"
+  resolved "git+https://github.com/angular/cli-builds.git#5b22b5092bb823695daf79e10702fe380773f351"
   dependencies:
     "@angular-devkit/architect" "github:angular/angular-devkit-architect-builds#603e6f4"
     "@angular-devkit/core" "github:angular/angular-devkit-core-builds#603e6f4"
@@ -6335,10 +6335,10 @@ mimic-response@^1.0.0:
   resolved "https://registry.yarnpkg.com/mimic-response/-/mimic-response-1.0.1.tgz#4923538878eef42063cb8a3e3b0798781487ab1b"
   integrity sha512-j5EctnkH7amfV/q5Hgmoal1g2QHFJRraOtmx0JpIqkxhBhI/lJSl1nMpQ45hVarwNETOoWEimndZ4QK0RHxuxQ==
 
-mini-css-extract-plugin@0.4.4:
-  version "0.4.4"
-  resolved "https://registry.yarnpkg.com/mini-css-extract-plugin/-/mini-css-extract-plugin-0.4.4.tgz#c10410a004951bd3cedac1da69053940fccb625d"
-  integrity sha512-o+Jm+ocb0asEngdM6FsZWtZsRzA8koFUudIDwYUfl94M3PejPHG7Vopw5hN9V8WsMkSFpm3tZP3Fesz89EyrfQ==
+mini-css-extract-plugin@0.5.0:
+  version "0.5.0"
+  resolved "https://registry.yarnpkg.com/mini-css-extract-plugin/-/mini-css-extract-plugin-0.5.0.tgz#ac0059b02b9692515a637115b0cc9fed3a35c7b0"
+  integrity sha512-IuaLjruM0vMKhUUT51fQdQzBYTX49dLj8w68ALEAe2A4iYNpIC4eMac67mt3NzycvjOlf07/kYxJDc0RTl1Wqw==
   dependencies:
     loader-utils "^1.1.0"
     schema-utils "^1.0.0"
