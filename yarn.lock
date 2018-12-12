@@ -45,10 +45,10 @@
   optionalDependencies:
     parse5 "^5.0.0"
 
-"@angular/cli@git+https://v1.dbe7879ee20ba01d1f570e668abd47e31c2b80bd@github.com/angular/cli-builds.git#5b22b50":
+"@angular/cli@git+https://github.com/angular/cli-builds.git#5b22b50":
   version "7.2.0-beta.1"
   uid "5b22b5092bb823695daf79e10702fe380773f351"
-  resolved "git+https://v1.dbe7879ee20ba01d1f570e668abd47e31c2b80bd@github.com/angular/cli-builds.git#5b22b5092bb823695daf79e10702fe380773f351"
+  resolved "git+https://github.com/angular/cli-builds.git#5b22b5092bb823695daf79e10702fe380773f351"
   dependencies:
     "@angular-devkit/architect" "github:angular/angular-devkit-architect-builds#603e6f4"
     "@angular-devkit/core" "github:angular/angular-devkit-core-builds#603e6f4"
@@ -7068,7 +7068,7 @@ opn@5.3.0:
   dependencies:
     is-wsl "^1.1.0"
 
-opn@^5.1.0:
+opn@5.4.0, opn@^5.1.0:
   version "5.4.0"
   resolved "https://registry.yarnpkg.com/opn/-/opn-5.4.0.tgz#cb545e7aab78562beb11aa3bfabc7042e1761035"
   integrity sha512-YF9MNdVy/0qvJvDtunAOzFw9iasOQHpVthTCvGzxt61Il64AYSGdK+rYwld7NAfk9qJ7dt+hymBNSc9LNYS+Sw==
