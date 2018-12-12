@@ -7,8 +7,6 @@
 	"baseBranches": [
 		"master"
 	],
-	"ignoreUnstable": true,
-	"followTag": true,
 	"ignoreDeps": [
 		"webpack-subresource-integrity"
 	],
@@ -17,6 +15,13 @@
 		"packages/**/package.json"
 	],
 	"packageRules": [
+		{
+			"packagePatterns": [
+				"@angular\/cli"
+			],
+			"ignoreUnstable": true,
+			"followTag": true
+		},
 		{
 			"packagePatterns": [
 				"^@angular\/.*"
