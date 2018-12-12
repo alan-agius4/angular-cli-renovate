@@ -45,10 +45,10 @@
   optionalDependencies:
     parse5 "^5.0.0"
 
-"@angular/cli@git+https://v1.dbe7879ee20ba01d1f570e668abd47e31c2b80bd@github.com/angular/cli-builds.git#5b22b50":
+"@angular/cli@git+https://github.com/angular/cli-builds.git#5b22b50":
   version "7.2.0-beta.1"
   uid "5b22b5092bb823695daf79e10702fe380773f351"
-  resolved "git+https://v1.dbe7879ee20ba01d1f570e668abd47e31c2b80bd@github.com/angular/cli-builds.git#5b22b5092bb823695daf79e10702fe380773f351"
+  resolved "git+https://github.com/angular/cli-builds.git#5b22b5092bb823695daf79e10702fe380773f351"
   dependencies:
     "@angular-devkit/architect" "github:angular/angular-devkit-architect-builds#603e6f4"
     "@angular-devkit/core" "github:angular/angular-devkit-core-builds#603e6f4"
@@ -7293,7 +7293,7 @@ pacote@9.1.1:
     unique-filename "^1.1.1"
     which "^1.3.1"
 
-pacote@^9.2.3:
+pacote@9.2.3, pacote@^9.2.3:
   version "9.2.3"
   resolved "https://registry.yarnpkg.com/pacote/-/pacote-9.2.3.tgz#48cfe87beb9177acd6594355a584a538835424b3"
   integrity sha512-Y3+yY3nBRAxMlZWvr62XLJxOwCmG9UmkGZkFurWHoCjqF0cZL72cTOCRJTvWw8T4OhJS2RTg13x4oYYriauvEw==
